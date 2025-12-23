@@ -1,7 +1,7 @@
 # AttendEase – AI Face Recognition Attendance System
 
 <p align="center">
-  <img width="290" height="80" alt="AttendEase" src="https://github.com/Master-Dev201/assets/18f6c229-4bda-4c21-b791-4ee18e2ccdc3" />
+  <img width="290" height="80" alt="AttendEase" src="https://github.com/user-attachments/assets/18f6c229-4bda-4c21-b791-4ee18e2ccdc3" />
 </p>
 
 **AttendEase** is an AI-powered face recognition attendance system built using **Django**, **DeepFace (FaceNet)**, and **OpenCV**.  
@@ -69,24 +69,18 @@ It leverages **deep learning–based face embeddings** to ensure accurate and se
 
 ### Landing Page
 <p align="center">
-  <img src="https://github.com/Master-Dev201/assets/de6da535-f86a-4315-a29c-66527c078409" width="800"/>
+  <img src="https://github.com/user-attachments/assets/de6da535-f86a-4315-a29c-66527c078409" width="800"/>
 </p>
 
 ### Admin Dashboard
 <p align="center">
-  <img src="https://github.com/Master-Dev201/assets/fd5eb022-6f4d-4dc2-a0c2-7ad3905fb48d" width="800"/>
+  <img src="https://github.com/user-attachments/assets/fd5eb022-6f4d-4dc2-a0c2-7ad3905fb48d" width="800"/>
 </p>
 
 ### User Dashboard
 <p align="center">
-  <img src="https://github.com/Master-Dev201/assets/a01975f3-d9c7-4a8c-ad60-820e106b4042" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a01975f3-d9c7-4a8c-ad60-820e106b4042" width="800"/>
 </p>
-
----
-
-## Demo
-
-https://github.com/Master-Dev201/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
 ---
 
